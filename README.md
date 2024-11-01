@@ -2,7 +2,7 @@
 
 [Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjk4NDhiYjUtYzQ0ZS00NzJjLTk3ZTAtOGY3OTI5ODFkYTk2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=8be570d37e8d7339534e)
 
-# **Abouut Shield Insurance:**
+# **About Company:**
 
 Shield Insurance provides reliable and comprehensive insurance plans for people of all ages and for businesses.The company focuses on customer satisfaction and security to make their customers feel safe and protected.
 
