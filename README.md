@@ -43,6 +43,9 @@ The project helped Shield Insurance to identify critical performance gaps within
 
 - **Increase Presence in Delhi and Other Key Cities**: Since Delhi is the top revenue city, more efforts should be made to grow in this market and also expand in cities like Mumbai and Hyderabad.
 - **Enhance Digital Presence**: Improving the app and website can provide a great opportunity to increase sales along with offline methods.
-- **Focus on Young Adult Customers**: Since adults aged 18-35 generate the most revenue, marketing should aim to attract and keep these customers.
+- **Focus on Young Adult Customers**: Since adults aged 18-35 generate the less revenue, marketing should aim to attract and keep these customers.
 - **Promote Popular Policies**: Focus on marketing successful policies like "POL4321HEL" to attract more customers.
 - **Increase Presence in Delhi and Other Key Cities**: Since Delhi is the top revenue city, more efforts should be made to grow in this market and also expand in cities like Mumbai and Hyderabad.
+- **Understand Monthly Changes**: Look into the reasons for the significant drop in April 2023 to avoid similar issues in the future and maintain steady growth.
+
+---------------------------------------------------------------------Thank You!--------------------------------------------------------------------
