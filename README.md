@@ -2,6 +2,7 @@
 
 [Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjk4NDhiYjUtYzQ0ZS00NzJjLTk3ZTAtOGY3OTI5ODFkYTk2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=8be570d37e8d7339534e)
 
+[Presentation](https://youtu.be/WMg3rbMydxE)
 # **About Company:**
 
 Shield Insurance provides reliable and comprehensive insurance plans for people of all ages and for businesses.The company focuses on customer satisfaction and security to make their customers feel safe and protected.
@@ -45,7 +46,6 @@ The project helped Shield Insurance to identify critical performance gaps within
 - **Enhance Digital Presence**: Improving the app and website can provide a great opportunity to increase sales along with offline methods.
 - **Focus on Young Adult Customers**: Since adults aged 18-35 generate the less revenue, marketing should aim to attract and keep these customers.
 - **Promote Popular Policies**: Focus on marketing successful policies like "POL4321HEL" to attract more customers.
-- **Increase Presence in Delhi and Other Key Cities**: Since Delhi is the top revenue city, more efforts should be made to grow in this market and also expand in cities like Mumbai and Hyderabad.
 - **Understand Monthly Changes**: Look into the reasons for the significant drop in April 2023 to avoid similar issues in the future and maintain steady growth.
 
----------------------------------------------------------------------**Thank You!**--------------------------------------------------------------------
+---------------------------------------------------------------------**Thank You!**---------------------------------------------------------
