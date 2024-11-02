@@ -47,4 +47,4 @@ The project helped Shield Insurance to identify critical performance gaps within
 - **Promote Popular Policies**: Focus on marketing successful policies like "POL4321HEL" to attract more customers.
 - **Understand Monthly Changes**: Look into the reasons for the significant drop in April 2023 to avoid similar issues in the future and maintain steady growth.
 
----------------------------------------------------------------------**Thank You!**---------------------------------------------------------
+---------------------------------------------------------------------**Thank You!**-------------------------------------------
