@@ -1,7 +1,7 @@
 # Shield-Insurance-Business-Insights
 
 [Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjk4NDhiYjUtYzQ0ZS00NzJjLTk3ZTAtOGY3OTI5ODFkYTk2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=8be570d37e8d7339534e)
-|  [Presentation ](https://youtu.be/WMg3rbMydxE) | [LinkedIn Post](https://www.linkedin.com/posts/lohithamada_codebasicsvirtualinternship-codebasics-dataanalytics-activity-7258430303831040000-La60?utm_source=share&utm_medium=member_desktop)
+|  [Presentation ](https://youtu.be/WMg3rbMydxE) | [LinkedIn Post](https://www.linkedin.com/posts/lohithamada_codebasicsvirtualinternship-codebasics-dataanalytics-activity-7259060365177552896-SHPI?utm_source=share&utm_medium=member_desktop)
 # **About Company:**
 
 Shield Insurance provides reliable and comprehensive insurance plans for people of all ages and for businesses.The company focuses on customer satisfaction and security to make their customers feel safe and protected.
